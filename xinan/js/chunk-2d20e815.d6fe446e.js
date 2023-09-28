@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d20e815"],{b03d:function(n,e,r){"use strict";r.r(e),r.d(e,"percentage",(function(){return t}));var t=function(n,e){var r=0;return n>0&&e>0&&(r=Math.round(n/e*1e4)/100),r}}}]);
